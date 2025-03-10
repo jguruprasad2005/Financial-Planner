@@ -1,4 +1,4 @@
-# Financial Planner Web App
+# Financial Planner Web App (Arithmania Hackathon)
 A simple financial planning web application built using **Python, Streamlit, NumPy, and Matplotlib**.
 
 ## Features
