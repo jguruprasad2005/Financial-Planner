@@ -13,6 +13,8 @@ pip install -r requirements.txt
 streamlit run planner.py
 ```
 
+## Sample images
+
 ![Alt Text](https://github.com/jguruprasad2005/Financial-Planner/blob/main/img1.jpeg)
 ![Alt Text](https://github.com/jguruprasad2005/Financial-Planner/blob/main/img2.jpeg)
 ![Alt Text](https://github.com/jguruprasad2005/Financial-Planner/blob/main/img3.jpeg)
