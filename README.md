@@ -7,5 +7,11 @@ A simple financial planning web application built using **Python, Streamlit, Num
 - Provides **EMI calculations and financial breakdown charts**.
 - User-friendly interface.
 
-##Sample screenshots
+
 ![Alt Text](https://github.com/jguruprasad2005/Financial-Planner/blob/main/img1.jpeg)
+![Alt Text](https://github.com/jguruprasad2005/Financial-Planner/blob/main/img2.jpeg)
+![Alt Text](https://github.com/jguruprasad2005/Financial-Planner/blob/main/img3.jpeg)
+![Alt Text](https://github.com/jguruprasad2005/Financial-Planner/blob/main/img4.jpeg)
+![Alt Text](https://github.com/jguruprasad2005/Financial-Planner/blob/main/img5.jpeg)
+![Alt Text](https://github.com/jguruprasad2005/Financial-Planner/blob/main/img6.jpeg)
+
